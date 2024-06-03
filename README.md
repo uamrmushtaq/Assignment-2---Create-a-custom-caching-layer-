@@ -12,3 +12,8 @@ Database.
 Consider the API system is stateless and only request parameters are to be checked against. 
 Do not waste your time on non-important sections of the system, we will only evaluate the 
 caching laye
+
+
+How To Start The Project.
+
+                       Change the connection String in Appsettings and run the project . Code First Approach is used in this Project , So just Run The Project All necessary Tables and Database Are auto genrated 
